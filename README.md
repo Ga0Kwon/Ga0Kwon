@@ -1,13 +1,15 @@
+
+
 # 권가영 · Kwon Gayeong
 
 > 개발과 기획을 오가며, 모델의 성능과 실제 배포·설명 사이의 간극을 좁히는 데이터·AI 전문가를 지향합니다. <br/>
 풀스택 개발자로 현장을 경험한 뒤 기획으로 전환했습니다. <br/>
-'개발을 이해하는 기획자'로서 개발 → 기획 → 연구로 이어지는 커리어를 설계하며, 빅데이터·AI 대학원 진학을 준비하고 있습니다. <br/>
+'개발을 이해하는 기획자'로서 개발 → 기획 → 연구로 이어지는 커리어를 설계하며, 빅데이터·AI 대학원 진학을 준비하고 있습니다.
 
 ## About
 
 - 약 2년 8개월간 풀스택 웹 개발(SI·공공 프로젝트)을 경험한 뒤 기획으로 전환
-- 현재 일루넥스에서 AI 솔루션 기획 담당 — 공공·제조·금융 도메인의 AI 서비스 기획에 참여
+- 현재 일루넥스에서 AI 솔루션 기획 담당 - 공공·제조·금융 도메인의 AI 서비스 기획에 참여
 - 기술적 실현 가능성을 직접 판단하고 데이터 구조를 최적화하는, 개발 이해도 높은 기획자
 - 평택대학교 ICT융합학부 스마트콘텐츠학과 졸업 (공학사) · GPA 4.12 / 4.5
 
@@ -26,14 +28,28 @@
 
 **[MES — 통합 생산관리 시스템](https://github.com/Ga0Kwon/MES)** · 팀 프로젝트 (4인)
 
-원자재·제품 재고, 생산, 매출 관리를 통합한 MES. SAP ERP를 도입하지 않는 제조 스타트업을 대상으로 기획부터 개발까지 진행했습니다.
-Spring · React · MySQL(AWS RDS) · RESTful API · [시연 영상](https://www.youtube.com/watch?v=HtMemg1fcIM)
+원자재·제품 재고, 생산, 매출 관리를 통합한 MES. SAP ERP를 도입하지 않는 제조 스타트업을 대상으로 기획부터 개발까지 진행했습니다. <br/>
+Spring · React · MySQL(AWS RDS) · RESTful API <br/> <br/>
+[시연 영상](https://www.youtube.com/watch?v=HtMemg1fcIM) <br/>
+
+<br/>
 
 그 외 · [ten__needs](https://github.com/Tea-ho/ten__needs) (팀) · [Console_Myway](https://github.com/Ga0Kwon/Console_Myway) (Java)
 
+<br/>
+
 ## Skills
 
-- **언어·프레임워크**: Java, Spring, JavaScript, React
+![Java](https://img.shields.io/badge/Java-3A3F47?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-3A9C6B?style=flat&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-4E9E8F?style=flat&logo=react&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-B25B4E?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5A7DA0?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C06A4C?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-B08968?style=flat&logo=figma&logoColor=white)
+
+- **언어·프레임워크** : Java, Spring, JavaScript, React
 - **데이터** : Oracle, MySQL, SQL · 대규모 데이터 최적화·아키텍처 재설계 경험
 - **도구** : Git, Figma
 - **학습 중** : Python (빅데이터분석기사 준비)
@@ -46,6 +62,6 @@ Spring · React · MySQL(AWS RDS) · RESTful API · [시연 영상](https://www.
 
 ## Contact
 
-- **Email** — kgayeong39@gmail.com
-- **Blog** — [Velog](https://velog.io/@gayeong39/posts) · [Tistory](https://ga0wnard.tistory.com/)
-- **Portfolio** — [Portfolio.pdf](https://github.com/user-attachments/files/31590658/_._.pdf)
+- **Email** : kgayeong39@gmail.com
+- **Blog** : [Velog](https://velog.io/@gayeong39/posts) · [Tistory](https://ga0wnard.tistory.com/)
+- **Portfolio** : [Portfolio.pdf](https://github.com/user-attachments/files/31590658/_._.pdf)
