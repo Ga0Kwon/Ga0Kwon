@@ -113,6 +113,6 @@
 
 ## 📄 Portfolio
 
-기획·개발 경험을 Problem–Solution–Result 구조로 정리한 포트폴리오입니다.
+기획·개발 경험을 Problem–Solution–Result 구조로 정리한 포트폴리오입니다. <br/>
 [Portfolio.pdf](https://github.com/user-attachments/files/31590658/_._.pdf)
 
