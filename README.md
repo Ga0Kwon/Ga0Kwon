@@ -35,10 +35,10 @@ Spring · React · MySQL(AWS RDS) · RESTful API · [시연 영상](https://www.
 
 ## Skills
 
-- **언어·프레임워크** — Java, Spring, JavaScript, React
-- **데이터** — Oracle, MySQL, SQL · 대규모 데이터 최적화·아키텍처 재설계 경험
-- **도구** — Git, Figma
-- **학습 중** — Python (빅데이터분석기사 준비)
+- **언어·프레임워크**: Java, Spring, JavaScript, React
+- **데이터** : Oracle, MySQL, SQL · 대규모 데이터 최적화·아키텍처 재설계 경험
+- **도구** : Git, Figma
+- **학습 중** : Python (빅데이터분석기사 준비)
 
 ## Certifications
 
