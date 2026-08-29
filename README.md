@@ -8,9 +8,7 @@
 
 풀스택 개발자로 4년간 현장을 경험한 뒤, 지금은 전략기획자로 일하고 있습니다.
 
-"모델의 성능"과 "실제 현장에서의 작동" 사이의 간극을 좁히는 문제에 관심이 많으며,
-
-2027학년도 일반대학원 진학을 통해 데이터·AI 연구자로 나아가는 것을 목표로 하고 있습니다.
+"모델의 성능"과 "실제 현장에서의 작동" 사이의 간극을 좁히는 문제에 관심이 많습니다.
 
 </div>
 
@@ -111,14 +109,3 @@
 
 <br/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ga0Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga0Kwon&show_icons=true&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga0Kwon&layout=compact&hide_border=true)
-
-</div>
