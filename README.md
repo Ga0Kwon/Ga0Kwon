@@ -114,6 +114,12 @@
 ## 📄 Portfolio
 
 기획·개발 경험을 Problem–Solution–Result 구조로 정리한 포트폴리오입니다.
+<br/>
 
-[개발및기획_이력_권가영.pdf](https://github.com/user-attachments/files/31590644/_._.pdf)
+---
 
+## 📄 Portfolio
+
+기획·개발 경험을 Problem–Solution–Result 구조로 정리한 포트폴리오입니다.
+
+[![Portfolio](https://github.com/user-attachments/files/31590644/_._.pdf)
